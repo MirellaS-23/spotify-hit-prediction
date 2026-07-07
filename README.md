@@ -68,8 +68,7 @@ Após as conclusions finais, ainda deixei anotações de técnicas e ações que
 
 ## 📂 Links
 
-Se ficou interessado, acesse meu projeto completo e o dataset usado:
+Se ficou interessado, acesse meu projeto completo:
 * [`Projeto_Integrador.ipynb`](./Projeto_Integrador.ipynb)
-* [`Projeto_Integrador_zip.zip`](./Projeto_Integrador_zip.zip)
 
 ---
